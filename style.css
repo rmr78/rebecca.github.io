@@ -1,0 +1,17 @@
+
+.my-columns
+{
+	margin: auto;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.my-body
+{
+	background-color: #7CFFCB;
+}
+
+.navbar{
+	
+	background-color: #000000 !important;
+}
